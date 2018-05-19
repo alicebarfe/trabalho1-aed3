@@ -1,5 +1,5 @@
-#ifndef REDE-SOCIAL_HPP
-#define REDE-SOCIAL_HPP
+#ifndef REDESOCIAL_HPP
+#define REDESOCIAL_HPP
 
 #include <iostream>
 #include <cstdlib>
